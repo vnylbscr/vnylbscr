@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mert.
 
-
+- 😊 I'm new grad Computer Engineer.
 - 🔭 I'm currently looking for a suitable job for me.
 - 🌱 I’m currently learning everything.
 - 💬 I'm interested in Web, Mobile, Game development
