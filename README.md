@@ -4,7 +4,6 @@
 - 🔭 I'm currenly working on [Qpien](http://qpien.com)
 - 🌱 I’m currently learning everything.
 - 💬 I'm interested in Web, Mobile, Game, FullStack development
-- 😄 Pronouns: fun, friendly, sympathetic
-- 🤗 Fun fact: I love to listen and make instrumental music.
+- I'm focusing React, JavaScript Frameworks and Front End Developent for now.
 - 📫 How to reach me: mertgenc8@gmail.com
 
