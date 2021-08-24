@@ -7,3 +7,6 @@
 - I'm focusing React, JavaScript Frameworks and Front End Developent for now.
 - 📫 How to reach me: mertgenc8@gmail.com
 
+[![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnylbscr)](https://github.com/vnylbscr/github-readme-stats)
+
+
