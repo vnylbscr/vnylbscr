@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mert.
 
-- 😊 I'm Sofware Engineer.
+- 😊 I'm Software Engineer.
 - 🔭 I'm currenly working on [Qpien](http://qpien.com)
 - 🌱 I’m currently learning everything.
 - 💬 I'm interested in Frontend, Mobile, FullStack development
