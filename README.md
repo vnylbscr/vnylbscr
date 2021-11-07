@@ -10,7 +10,7 @@
  -  Next.js
  -  GraphQL
  -  Express.js
- -  CSS/SASS
+ -  HTML, CSS/SASS
  -  Nest.js
  -  Web Development
  - Apollo GraphQL
