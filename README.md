@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Mert.
 
-#### I am a passionate, solution-oriented developer who can adapt quickly to new technologies, loves to learn new things.
+#### I am a passionate, solution-oriented full-stack developer who can adapt quickly to new technologies, loves to learn new things.
 
 ## Tech Stack: 
  - Javascript/TypeScript
