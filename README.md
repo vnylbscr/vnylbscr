@@ -1,9 +1,25 @@
+
 ### Hi there 👋 I'm Mert.
 
-- I'm software engineer from Turkey.
-- I'm currenly working on [Qpien](http://qpien.com)
-- Tech Stack: React.js, Node.js, TypeScript, GraphQL, Express.js
-- How to reach me: mertgenc8@gmail.com
+#### I am a passionate, solution-oriented developer who can adapt quickly to new technologies, loves to learn new things.
+
+## Tech Stack: 
+ - Javascript/TypeScript
+ - React.js
+ - Node.js
+ -  Next.js
+ -  GraphQL
+ -  Express.js
+ -  CSS/SASS
+ -  Nest.js
+ -  Web Development
+ - Apollo GraphQL
+ -  React Hooks
+ -  State Management Libraries(Such as Redux and Zustand)
+ - MongoDB
+ - PostgreSQL
+
+**How to reach me**: mertgenc8@gmail.com
 
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnylbscr&hide=contribs,prs)
 
