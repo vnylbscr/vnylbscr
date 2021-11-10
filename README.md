@@ -7,6 +7,7 @@
  - Javascript/TypeScript
  - React.js
  - Node.js
+ - UI Libraries (Material-UI, Chakra UI, Bootstrap)
  -  Next.js
  -  GraphQL
  -  Express.js
