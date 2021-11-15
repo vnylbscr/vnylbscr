@@ -16,6 +16,7 @@
  -  Web Development
  - Apollo GraphQL
  -  React Hooks
+ -  TypeORM
  -  State Management Libraries(Such as Redux and Zustand)
  - MongoDB
  - PostgreSQL
