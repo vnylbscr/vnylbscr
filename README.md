@@ -5,7 +5,7 @@
 
 ## Tech Stack: 
  - Javascript/TypeScript
- - React.js
+ - React.js / React Native
  - Node.js
  - UI Libraries (Material-UI, Chakra UI, Bootstrap)
  -  Next.js
