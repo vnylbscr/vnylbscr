@@ -6,8 +6,9 @@
 ## Tech Stack: 
  - Javascript/TypeScript
  - React.js / React Native
+ - Vue.js (I'm currently learning)
  - Node.js
- - UI Libraries (Material-UI, Chakra UI, Bootstrap)
+ - UI Libraries (Material-UI, Chakra UI, Bootstrap, Semantic UI)
  -  Next.js
  -  GraphQL
  -  Express.js
