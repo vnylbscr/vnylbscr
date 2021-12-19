@@ -4,8 +4,9 @@
 #### I am a passionate, solution-oriented full-stack developer who can adapt quickly to new technologies, loves to learn new things.
 
 ## Tech Stack: 
- - Javascript/TypeScript
- - React.js / React Native
+ - Javascript / TypeScript
+ - React.js / React Native / Mobile App Development
+ - Storybook
  - Vue.js (I'm currently learning)
  - Node.js
  - UI Libraries (Material-UI, Chakra UI, Bootstrap, Semantic UI)
@@ -14,13 +15,14 @@
  -  Express.js
  -  HTML, CSS/SASS
  -  Nest.js
- -  Web Development
+ -  Web Development / Front- end development / Full Stack Development
  - Apollo GraphQL
  -  React Hooks
  -  TypeORM
  -  State Management Libraries(Such as Redux and Zustand)
  - MongoDB
  - PostgreSQL
+ - Software Testing (React Testing Library, Jest.js) 
 
 **How to reach me**: mertgenc8@gmail.com
 
