@@ -22,7 +22,7 @@
  -  State Management Libraries(Such as Redux and Zustand)
  - MongoDB
  - PostgreSQL
- - Software Testing (React Testing Library, Jest.js) 
+ - React Testing Library, Jest.js
 
 **How to reach me**: mertgenc8@gmail.com
 
