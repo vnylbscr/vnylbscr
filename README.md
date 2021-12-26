@@ -7,9 +7,10 @@
  - Javascript / TypeScript
  - React.js / React Native / Mobile App Development
  - Storybook
+ - Firebase
  - Vue.js (I'm currently learning)
  - Node.js
- - UI Libraries (Material-UI, Chakra UI, Bootstrap, Semantic UI)
+ - UI Libraries (Material-UI, Chakra UI, Bootstrap, Semantic UI, Native-Base)
  -  Next.js
  -  GraphQL
  -  Express.js
