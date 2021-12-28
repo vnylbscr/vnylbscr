@@ -3,6 +3,9 @@
 
 #### I am a passionate, solution-oriented full-stack developer who can adapt quickly to new technologies, loves to learn new things.
 
+![](https://komarev.com/ghpvc/?username=vnylbscr)
+
+
 ## Tech Stack: 
  - Javascript / TypeScript
  - React.js / React Native / Mobile App Development
